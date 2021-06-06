@@ -74,14 +74,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 node commit command
-###npm install node
+### npm install node
 to install node
 
-###npm node server
+### npm node server
 to start the server
 
 
-###npm i axios
+### npm i axios
 to install the axios
 
 ### npm axios
